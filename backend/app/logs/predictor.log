@@ -1,0 +1,9 @@
+2024-03-30 12:59:06,917 - /backend/app/v1/controllers/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-30 12:59:06,919 - /backend/app/v1/controllers/catdog_predictor.py - INFO - MLFLOW_TRACKING_URI: http://host.docker.internal:8000
+2024-03-30 12:59:07,016 - /backend/app/v1/controllers/catdog_predictor.py - INFO - Model loaded: resnet_18 - Production
+2024-03-30 16:30:12,612 - /backend/app/v1/controllers/catdog_predictor.py - INFO - Starting Model Serving
+2024-03-30 16:30:12,620 - /backend/app/v1/controllers/catdog_predictor.py - INFO - MLFLOW_TRACKING_URI: http://host.docker.internal:8000
+2024-03-30 16:30:12,656 - /backend/app/v1/controllers/catdog_predictor.py - INFO - Model loaded: resnet_18 - Production
+2024-03-30 16:30:41,563 - /backend/app/v1/controllers/catdog_predictor.py - INFO - Save image to /backend/app/cache/captured_data/Facebook post image.jpg
+2024-03-30 16:30:41,721 - /backend/app/v1/controllers/catdog_predictor.py - INFO - Predictor name: resnet_18 -  Predictor alias: Production
+2024-03-30 16:30:41,724 - /backend/app/v1/controllers/catdog_predictor.py - INFO - Predicted Prob: 0.501606 -  Predicted ID: 1 -  Predicted Class: Dog

@@ -1,0 +1,5 @@
+{
+    "config_name": "raw_data",
+    "model_name": "resnet_18",
+    "model_alias": "Production"
+}

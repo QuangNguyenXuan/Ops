@@ -1,0 +1,2 @@
+Image_name, Image_path, Predictor_name, Predictor_alias, Probabilities , Best_prob, Predicted_id, Predicted_class
+Facebook post image.jpg,/backend/app/cache/captured_data,resnet_18,Production, [0.49839431047439575, 0.5016056299209595],0.501606,1,Dog

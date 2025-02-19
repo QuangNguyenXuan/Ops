@@ -1,0 +1,5 @@
+2024-03-30 12:59:37,536 - /backend/app/middleware/http.py - INFO - 172.22.0.1 - "GET / 1.1" 404 0.00s
+2024-03-30 12:59:37,583 - /backend/app/middleware/http.py - INFO - 172.22.0.1 - "GET /favicon.ico 1.1" 404 0.00s
+2024-03-30 16:30:31,116 - /backend/app/middleware/http.py - INFO - 172.22.0.1 - "GET /docs 1.1" 200 0.00s
+2024-03-30 16:30:31,272 - /backend/app/middleware/http.py - INFO - 172.22.0.1 - "GET /openapi.json 1.1" 200 0.00s
+2024-03-30 16:30:41,733 - /backend/app/middleware/http.py - INFO - 172.22.0.1 - "POST /v1/catdog_classification/predict 1.1" 200 0.18s
